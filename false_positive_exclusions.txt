@@ -1,9 +1,10 @@
 7Cups
 APClips
+Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-Cults3D
+DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -22,8 +23,10 @@ Scribd
 Shelf
 SlideShare
 Smule
+SoylentNews
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
