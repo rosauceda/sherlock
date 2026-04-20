@@ -12,7 +12,6 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Motherless
 Patched
 PocketStars
 Pornhub
@@ -28,7 +27,6 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 dailykos
