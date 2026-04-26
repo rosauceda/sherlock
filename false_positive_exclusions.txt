@@ -3,15 +3,15 @@ APClips
 Airliners
 Apple Discussions
 Archive.org
+Audiojungle
 Bandcamp
 Codolio
-DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
 Patched
@@ -25,8 +25,8 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
@@ -35,3 +35,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
