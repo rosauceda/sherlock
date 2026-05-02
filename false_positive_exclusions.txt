@@ -6,6 +6,7 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -14,9 +15,9 @@ Giphy
 Hashnode
 Hubski
 LushStories
-Minecraft
 Patched
 Pornhub
+Python.org Discussions
 Rarible
 Realmeye
 Reddit
@@ -27,7 +28,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
@@ -38,4 +38,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
