@@ -6,7 +6,7 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
-DeviantArt
+Cults3D
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -15,7 +15,6 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 Patched
 Pornhub
 Rarible
@@ -39,4 +38,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
+threads
