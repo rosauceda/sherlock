@@ -13,8 +13,6 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
-NICommunityForum
 Patched
 Pornhub
 Rarible
@@ -27,6 +25,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 TryHackMe
 Velomania
 Weblate
@@ -37,5 +36,6 @@ igromania
 interpals
 mercadolivre
 opennet
+phpRU
 svidbook
 xHamster
