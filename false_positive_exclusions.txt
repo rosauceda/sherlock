@@ -4,6 +4,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+BoardGameGeek
 Codolio
 Cults3D
 Discord.bio
@@ -14,7 +15,6 @@ Hashnode
 Houzz
 Hubski
 LessWrong
-Minecraft
 Odysee
 Patched
 Rarible
