@@ -15,6 +15,7 @@ Hashnode
 Houzz
 Hubski
 LessWrong
+Minecraft
 Odysee
 OurDJTalk
 PCGamer
@@ -30,9 +31,9 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 TryHackMe
 Velomania
-WebNode
 Weblate
 YandexMusic
 authorSTREAM
