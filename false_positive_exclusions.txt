@@ -13,9 +13,11 @@ F3.cool
 GeeksforGeeks
 Giphy
 Hashnode
+Houzz
 Hubski
 Instapaper
 LessWrong
+LiveJournal
 Odysee
 PCGamer
 Patched
