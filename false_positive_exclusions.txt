@@ -5,7 +5,8 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
+CGTrader
+Championat
 Chatujme.cz
 Codolio
 DeviantArt
@@ -14,27 +15,28 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-GitHub
+Gumroad
 HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
+Minecraft
 Odysee
 PCGamer
 Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
 Replit.com
 ReverbNation
-RocketTube
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
