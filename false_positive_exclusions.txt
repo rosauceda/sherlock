@@ -19,7 +19,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Lobsters
 Minecraft
 ObservableHQ
 Odysee
@@ -35,10 +34,10 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
-WebNode
 Weblate
 YandexMusic
 authorSTREAM
