@@ -15,11 +15,12 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
+Linktree
 ObservableHQ
 Odysee
 PCGamer
@@ -50,4 +51,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
