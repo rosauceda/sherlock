@@ -18,7 +18,6 @@ GaiaOnline
 GeeksforGeeks
 Giphy
 HackerNews
-HackerRank
 Hashnode
 Houzz
 Hubski
